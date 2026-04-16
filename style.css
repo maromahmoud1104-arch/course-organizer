@@ -12,7 +12,6 @@ background:#f7f8fc;
 color:#333;
 }
 
-/* HEADER */
 header{
 background:white;
 padding:15px;
@@ -28,7 +27,6 @@ color:#ff4d6d;
 font-weight:bold;
 }
 
-/* NAV */
 nav ul{
 list-style:none;
 margin-top:10px;
@@ -57,14 +55,12 @@ border:2px solid #ff4d6d;
 transform:scale(1.1);
 }
 
-/* ACTIVE */
 .active{
 background:white!important;
 color:#ff4d6d!important;
 border:2px solid #ff4d6d;
 }
 
-/* HERO */
 .hero{
 text-align:center;
 padding:80px 20px;
@@ -80,14 +76,12 @@ margin-top:10px;
 color:#666;
 }
 
-/* TITLE */
 .title{
 text-align:center;
 margin:20px 0;
 color:#ff4d6d;
 }
 
-/* BUTTON */
 .btn{
 display:inline-block;
 margin-top:10px;
@@ -105,7 +99,6 @@ transition:0.3s;
 transform:scale(1.1);
 }
 
-/* TABLE */
 .table-container{
 width:90%;
 margin:auto;
@@ -133,7 +126,6 @@ tr:hover{
 background:#ffe5ec;
 }
 
-/* BADGE */
 .badge{
 background:#ff4d6d;
 color:white;
@@ -141,7 +133,6 @@ padding:4px 10px;
 border-radius:20px;
 }
 
-/* FORM */
 form{
 width:90%;
 max-width:400px;
@@ -157,7 +148,6 @@ border:1px solid #ccc;
 border-radius:8px;
 }
 
-/* FOOTER */
 footer{
 text-align:center;
 padding:15px;
@@ -170,7 +160,6 @@ color:#ff4d6d;
 font-weight:bold;
 }
 
-/* RESPONSIVE */
 @media(max-width:768px){
 .hero h1{font-size:28px}
 nav ul li a{width:90%}
